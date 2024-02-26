@@ -11,8 +11,8 @@
 >7. Проверить работоспособность, исправить ошибки, исправленный Pipeline вложить в репозиторий в файл `ScriptedJenkinsfile`.
 >8. Отправить ссылку на репозиторий с ролью и Declarative Pipeline и Scripted Pipeline.
 
- [Ссылка на Declarative Pipeline](https://github.com/dsolovev455/09-ci-04-jenkins/blob/main/pipeline/jenkinsfile)
+ [Ссылка на Declarative Pipeline](https://github.com/dsolovev455/09-ci-04-jenkins/blob/master/pipeline/jenkinsfile)
 
-  [Ссылка на Scripted Pipeline](https://github.com/dsolovev455/09-ci-04-jenkins/blob/main/scriptedjenkinsfile)
+  [Ссылка на Scripted Pipeline](https://github.com/dsolovev455/09-ci-04-jenkins/blob/master/pipeline/scriptedjenkinsfile)
 
 ---
