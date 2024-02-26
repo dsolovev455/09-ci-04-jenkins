@@ -13,6 +13,6 @@
 
  [Ссылка на Declarative Pipeline](https://github.com/dsolovev455/09-ci-04-jenkins/blob/master/pipeline/jenkinsfile)
 
-  [Ссылка на Scripted Pipeline](https://github.com/dsolovev455/09-ci-04-jenkins/blob/master/scriptedjenkinsfile)
+  [Ссылка на Scripted Pipeline](https://github.com/dsolovev455/09-ci-04-jenkins/blob/master/pipeline/scriptedjenkinsfile)
 
 ---
